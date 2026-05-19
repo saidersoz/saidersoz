@@ -16,25 +16,59 @@
 
 * 🚀 **Technical Project Manager** with a strong engineering background in **Software Test Automation (SDET)**.
 * ⚡ I love bridging the gap between technical teams and business goals, ensuring high-quality, automated, and efficient product delivery.
-* 📱 Passionate about cross-platform mobile development using **Flutter**. Currently building apps like *Cepsiz* and *FeyzUp*.
-* 🌱 Currently learning and expanding my test automation toolkit with **Playwright** and **TypeScript**.
+* 📱 Passionate about cross-platform mobile development using **Flutter**. Currently building and managing projects like **Maneviyatim.Net**, **Cepsiz**, and **FeyzUp**.
+* 🌱 Currently expanding my test automation toolkit with **Playwright** and **TypeScript**.
 * 🎯 Open to global opportunities, specifically aiming for roles in the **Netherlands**.
+
+<br/>
+
+### 🏆 Key Projects
+
+* **Maneviyatim.Net Mobile App:** Built a cross-platform Flutter mobile application integrated with AI-based content services. Managed the full product lifecycle as Product Owner & Developer.
+* **E-commerce Competitor Analysis Tool:** Developed a Python/Java-based automation tool for competitor price analysis, automating data extraction to Excel and Telegram.
+
+<br/>
+
+### 📜 Certifications & Education
+
+* 🧠 **Business Analysis Fundamentals with AI Certified (BAFC)** – BALearning
+* 📊 **Project Management** – Project Management Institute (PMI)
+* 🔄 **Scrum Fundamentals Certified (SFC)** – SCRUMstudy
+* 🤖 **Google AI Specialization** – Google Cloud Skills Boost
+* 💻 **Software Engineering & Testing Series** – BTK Akademi
+* 🎓 **Computer Programming** – Anadolu University
 
 <br/>
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+**Management & Agile:**
+<p align="left">
+  <code>Jira</code> <code>Trello</code> <code>OpenProject</code> <code>Scrum</code> <code>SDLC</code> <code>STLC</code>
+</p>
+
+**Development & Core Tech:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" title="Flutter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="TypeScript"/>
+</p>
+
+**Testing & Quality Assurance:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" title="Selenium"/>
+  <code>Cucumber</code> <code>TestNG</code> <code>RestAssured</code> <code>Postman</code> <code>JMeter</code> <code>Appium</code> <code>Playwright</code>
+</p>
+
+**Database, DevOps & Cloud:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" title="MSSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" title="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" title="Jenkins"/>
+  <code>Kibana</code>
 </p>
 
 <br/>
