@@ -36,7 +36,8 @@
 * 🔄 **Scrum Fundamentals Certified (SFC)** – SCRUMstudy
 * 🤖 **Google AI Specialization** – Google Cloud Skills Boost
 * 💻 **Software Engineering & Testing Series** – BTK Akademi
-* 🎓 **Computer Programming** – Anadolu University
+*  **IT and Computing** - Richmond College
+*  **Computer Programming** – Anadolu University
 
 <br/>
 
