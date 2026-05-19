@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Said Ersöz</h1>
+<h1 align="center">Hi 👋, I'm Said Ersöz</h1>
 <h3 align="center">Technical Project Manager & SDET</h3>
 
 <p align="center">
